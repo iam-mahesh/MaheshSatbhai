@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaheshSatbhai
-- 👀 I’m interested in Python, DevOps, AWS.
+- 👀 I Love to work with Python, Linux, Docker, Git, Shell Scriptig, AWS.
 - 🌱 I’m currently learning DevOps
 
 <!---
